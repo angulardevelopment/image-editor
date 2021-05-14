@@ -1,3 +1,7 @@
+# About
+Change image properties.
+In this, You can change the properties of the image like changing the border and can blur the image.
+
 # Image Editor
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
